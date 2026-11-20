@@ -10,7 +10,7 @@ GitHub repository.
 2. Invite your group members as collaborators.
 3. Clone your group's repository.
 4. Create your own branch.
-5. Add a Python file inside the members/ folder.
+5. Add a Python file inside the member_introduction folder.
 6. Commit and push your changes.
 7. Create a pull request.
 8. Review and merge your team's contributions.
