@@ -1,0 +1,6 @@
+print("================================================")
+print("Hi, I'm Ria!")
+print("I am a 3rd year CS student, and I love baking!")
+print("I am a Backend Team Lead. Nice to meet you!")
+print("I really like penguins.")
+print("================================================")
