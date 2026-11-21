@@ -1,7 +1,7 @@
 ("================================================")
 print("================================================")
 print("Hi, I'm K!")
-print("I am a 2nd year CS student.")
+print("I am a 2nd year CSE student.")
 print("I am a Project Team Member. Nice to meet you!")
 print("I love CORTIS.")
 print("================================================")
