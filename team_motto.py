@@ -1,1 +1,1 @@
-print("Our team motto is...")
+print("Our team motto is...'Snacking and coding!'")
